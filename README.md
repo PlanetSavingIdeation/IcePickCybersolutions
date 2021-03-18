@@ -1,4 +1,4 @@
-Hey, IcePickCyberSolutions! It's nice to meet you.
+Hey, I'm IcePickCyberSolutions! It's nice to meet you.
 
 In my repos you'll find a bunch of tools for various tasks in various areas.
 All I hope is that you'll find them useful and even perhaps move you to explore and learn, maybe help others do the same?
