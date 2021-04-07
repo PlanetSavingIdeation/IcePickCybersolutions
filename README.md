@@ -10,6 +10,6 @@ Feel free to use any of the code, ideas, information, and concepts that I put ou
 What matters most is that more people understand how things work so they can have input and opinions on how the world is built and how it runs. 
 
 Feel free to check me out on my other socials:
-- IG: https://www.instagram.com/icepick_cybersolutions/
+- [IG]( https://www.instagram.com/icepick_cybersolutions/)
 - YT: its in the works
 - email: hackhq81@gmail.com (COME AT ME SPAM BOTS)
